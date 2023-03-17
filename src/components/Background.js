@@ -4,7 +4,7 @@ import {
   StyleSheet,
   KeyboardAvoidingView,
 } from 'react-native';
-import { theme } from '../eeecore/theme';
+import { theme } from '../core/theme';
 
 export default function Background({ children }) {
   return (
